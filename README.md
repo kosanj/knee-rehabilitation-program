@@ -6,8 +6,8 @@ The brace is made to a dual purpose: providing knee support and giving real-time
 
 ---
 
-## ✨ Features  
-- 🔔 Alerts users with vibration/buzzer when the knee bends too far  
-- 📊 Tracks knee angles over time and logs daily data  
-- 📈 Generates weekly summaries with graphs of unsafe movements  
-- 🎽 Adjustable, lightweight, and portable design  
+## Features
+- Provides alerts with vibration or buzzer when the knee bends beyond a safe angle  
+- Tracks and logs knee angles over time  
+- Generates weekly summaries and graphs of unsafe movements  
+- Adjustable, lightweight, and portable design  
